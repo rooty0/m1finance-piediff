@@ -3,7 +3,7 @@
 
 Sometimes you need to compare two pies to see a slice difference between them. For example, it is super useful to use this tool to keep up to date your pie from a shared pie. So you can compare your pie and shared pie and see the difference. 
 
-![sampleone](https://github.com/rooty0/m1finance-piediff/blob/master/example.jpeg?raw=true)
+![sampleone](https://github.com/rooty0/m1finance-piediff/blob/main/example.jpeg?raw=true)
 
  
 Unfortunately, [M1 Finance](https://www.m1finance.com/) does not provide any API to make this task easy so as a result you can see selenium as a dependency.
