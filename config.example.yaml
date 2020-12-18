@@ -1,0 +1,8 @@
+---
+SHARED_PIE: https://dashboard.m1finance.com/share/_shared_pie_
+MY_PIE: https://dashboard.m1finance.com/d/invest/portfolio/_your_pie_
+# INCLUDING QUOTES!
+REFRESH_TOKEN: '"your_secret"'
+# INCLUDING QUOTES!
+ACCESS_TOKEN: '"your_secret"'
+SELENIUM_DRIVER_PATH: /path/to/driver
