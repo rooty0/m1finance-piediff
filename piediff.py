@@ -21,11 +21,6 @@ driver.execute_script(
     "m1_finance_auth.refreshToken",
     config['REFRESH_TOKEN'],
 )
-driver.execute_script(
-    "window.sessionStorage.setItem(arguments[0], arguments[1]);",
-    "m1_finance_auth.accessToken",
-    config['ACCESS_TOKEN'],
-)
 
 
 def wait_for_slices_set(xpath):

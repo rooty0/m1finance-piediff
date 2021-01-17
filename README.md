@@ -32,7 +32,7 @@ venv/bin/pip install -r requirements.txt
 You need to edit `config.yaml` configuration file
 
 First open your browser and login to [M1 Finance](https://www.m1finance.com/).
-Then open a session storage of your browser and copy `m1_finance_auth.refreshToken` (option `REFRESH_TOKEN`) and `m1_finance_auth.accessToken` (option `ACCESS_TOKEN`) to the configuration file.
+Then open a session storage of your browser and copy `m1_finance_auth.refreshToken` (option `REFRESH_TOKEN`) to the configuration file.
 An example how to access session storage for `Chrome`:
 
 ```
